@@ -1,7 +1,6 @@
 ## BDC - Satria Data 2022
 
-TIM : felicityteam<br>
-ID: SD202200004001
+Tim : felicityteam | `SD202200004001`
 
 Repo untuk merekam segala resources dalam lomba BDC - Satria Data tahun 2022.
 
