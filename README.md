@@ -1,3 +1,7 @@
+## BDC - Satria Data 2022
 
-# Introduction-to-Git-by-Coursera
-I am editing the README file. Adding some more details about the project description.
+TIM : lupaksayanamanya 😋 
+ID: SD202200004001
+
+## Dataset
+
